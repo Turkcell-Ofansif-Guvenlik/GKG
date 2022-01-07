@@ -1,0 +1,3 @@
+# Bilgi İfşaları ve Hata Mesajları
+
+Uygulamada kullanılan herhangi bir modülün ürettiği hata mesajı kritik bilgi veya kullanıcıdan alınan girdi içermemelidir. Kritik bilgi içermemesi gereksiniminin sebebi saldırganın hata mesajları üzerinden aldığı sürüm bilgisi, marka, model bilgisi veya işletim sistemi bilgisi ile sistem üzerinde yoğunlaşarak bir sömürü tekniği geliştirebilir mantığından gelmektedir. Kullanıcıdan alınan girdinin hata üzerinde yansıtılması durumunda: eğer girdi-çıktı denetimi yapılmıyorsa kullanıcı bu hata mesajı üzerinden SQL injection, Command injection XSS vb. zafiyetleri tetikleyerek uygulamaya zarar verebilir.

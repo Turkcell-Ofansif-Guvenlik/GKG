@@ -1,0 +1,3 @@
+# Hatalı CORS Yapılandırması
+
+Hatalı CORS yapılandırılması sonucu tarayıcı üzerinde açık olan diğer sekmelerle web sitesine erişim sağlanabilmektedir. Temel sebebi ise Same Origin Policy üzerinde CORS’un yaptığı esnemelerdir. CORS un güvensiz yapılandırılması, çapraz originler üzerinden uygulamayı tehlikeye sokacaktır. Örneğin; CORS ile rastgele origin adreslerinden erişime izin verilen (Access-Control-Allow-Origin: \*) ve kimliği doğrulanmış içeriklerin talep edilebilir durumda (Access-Control-Allow-Credentials: true) olduğu senaryo düşünülsün. Saldırgan burada yan sekmede açtırabildiği zararlı script içeren web sitesi ile kullanıcının hatalı CORS yapılandırılması yapılmış web sitesindeki kimliği doğrulanmış içeriğini ele geçirebilmektedir.

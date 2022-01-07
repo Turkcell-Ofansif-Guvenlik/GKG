@@ -1,0 +1,5 @@
+# JWT (JSON Web Token)
+
+JWT (JSON Web Token), JSON formatında veri içerebilen token yapılarıdır. JWT yapıları adından da anlaşıldığı gibi JSON formatında veri taşıyabilir. JWT tokenlar 3 ana bölümden oluşur. Header bölümünde token türü ve imzalama algoritmasını tanımlanır. Payload bölümünde issuer, expire gibi veri içeren parçalar taşınır. Signature bölümünde ise iletinin aktarım sırasında değişmediğini doğrulayan imza bulunur. Token içerisinde veri taşındığı için küçük ihtiyaçlarda veri tabanı ihtiyacı duyulmaz. JWT tokenlarda veri taşınması kolaylık sağlaması ile birlikte bazı risklere neden olabilir. Bu tokenlarda kişisel veri kapsamına giren veriler taşınmamalıdır. JWT yalnızca payload bölümünde belirlenen süre dolduğunda geçersiz olur. Kullanıcı doğrudan kendi tokenını iptal edemediği için oturum çalınması durumunda risk oluşabilir. Bu eksikliği giderebilmek için, sonlandırma işleminde tokenlar kara listeye alınarak dolaylı yoldan inaktif edilebilir. Jenerik JWT yapısı aşağıdaki gibidir.
+
+![https://research.securitum.com/jwt-json-web-token-security/ adresinden alınmıştır.](<../../.gitbook/assets/image (29).png>)

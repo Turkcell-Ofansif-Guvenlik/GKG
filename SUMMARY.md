@@ -38,13 +38,12 @@
   * [Önlemler](os-command-injection/oenlemler.md)
 * [LDAP Injection](ldap-injection/README.md)
   * [Önlemler](ldap-injection/oenlemler.md)
-* [XML External Entities (XXE) Saldırıları](xml-external-entities-xxe-saldirilari.md)
 
 ## XML External Entities (XXE) Saldırıları
 
-* [Giriş](xml-external-entities-xxe-saldirilari-1/giris.md)
-* [XML External Entity Injection (XXE)](xml-external-entities-xxe-saldirilari-1/xml-external-entity-injection-xxe.md)
-* [Önlemler](xml-external-entities-xxe-saldirilari-1/oenlemler.md)
+* [Giriş](xml-external-entities-xxe-saldirilari/giris.md)
+* [XML External Entity Injection (XXE)](xml-external-entities-xxe-saldirilari/xml-external-entity-injection-xxe.md)
+* [Önlemler](xml-external-entities-xxe-saldirilari/oenlemler.md)
 
 ## Güvenli Kimlik Doğrulama <a href="#guvenli-kimlik-dogrulama" id="guvenli-kimlik-dogrulama"></a>
 

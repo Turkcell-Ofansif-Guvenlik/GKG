@@ -2,9 +2,9 @@
 
 Bu doküman Turkcell Ofansif Güvenlik - Uygulama Güvenliği takımı tarafından yazılmış olup, geliştirilmeye devam etmektedir.&#x20;
 
-| Proje Lideri                   | Baş Yazar                                                                                                                   | Katkıda Bulunanlar ve İnceleyenler                                         |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <p>Anıl Baş<br>Haktan Emik</p> | <p>Anıl Baş</p><p>Emre Uzun</p><p>Emrecan Gerede</p><p>Haktan Emik</p><p>Mert Uğur</p><p>Onur Osman Güle<br>Semih Laçin</p> | <p>Ahmet Çağatay Beyaztaş<br>Esra Ercan<br>Fatih Demirbaş<br>Talha Şen</p> |
+| Proje Lideri                   | Baş Yazar                                                                                                                                              | Katkıda Bulunanlar ve İnceleyenler                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| <p>Anıl Baş<br>Haktan Emik</p> | <p>Anıl Baş</p><p>Emre Uzun</p><p>Emrecan Gerede</p><p>Haktan Emik</p><p>Mert Uğur</p><p>Muhammet Raşit Aydın</p><p>Onur Osman Güle<br>Semih Laçin</p> | <p>Ahmet Çağatay Beyaztaş<br>Esra Ercan<br>Fatih Demirbaş<br>Talha Şen</p> |
 
 ## Dokümanın Amacı
 
